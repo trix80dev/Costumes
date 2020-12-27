@@ -1,0 +1,5 @@
+name: Costumes
+author: zzolt
+version: 1.0.0
+main: me.zzolt.costumes.Costumes
+api: ["1.0.11"]
